@@ -31,7 +31,7 @@ body {
       text-decoration: underline;
     }
     .hero {
-      background: url('../images/fastfood.jpg')center/cover no-repeat;
+      background: url('../images/fastfood.jpg');
       height: 400px;
       display: flex;
       align-items: center;
@@ -97,3 +97,4 @@ body {
       margin-top: 60px;
 
     }
+
