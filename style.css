@@ -1,4 +1,6 @@
 
+
+
 body {
       font-family: Arial, sans-serif;
       background-color: #fff8f0;
@@ -29,7 +31,7 @@ body {
       text-decoration: underline;
     }
     .hero {
-      background: url('../images/fastfood.jpg');
+      background: url('../images/fastfood.jpg')center/cover no-repeat;
       height: 400px;
       display: flex;
       align-items: center;
@@ -93,8 +95,4 @@ body {
       padding: 20px 40px;
       text-align: center;
       margin-top: 60px;
-
     }
-
-
-
