@@ -1,4 +1,8 @@
 
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
+
+
 body {
       font-family: Arial, sans-serif;
       background-color: #fff8f0;
@@ -94,5 +98,6 @@ body {
       text-align: center;
       margin-top: 60px;
     }
+
 
 
